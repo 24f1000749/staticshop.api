@@ -27,26 +27,24 @@
     { "id": "prod-d99ebf2e-021", "name": "Pro Item 21", "category": "sports", "price": 331.21, "stock": 108, "rating": 2 }
   ],
   "aggregations": {
-    "clothing": {
-      "count": 8,
-      "inventoryValue": 250301.85
-    },
-    "books": {
-      "count": 3,
-      "inventoryValue": 75949.75
-    },
-    "electronics": {
-      "count": 6,
-      "inventoryValue": 159332.01
-    },
-    "home": {
-      "count": 1,
-      "inventoryValue": 86606.08
-    },
-    "sports": {
-      "count": 3,
-      "inventoryValue": 123933.69
-    }
+  "clothing": {
+    "count": 8,
+    "inventoryValue": 250301.85
+  },
+  "books": {
+    "count": 3,
+    "inventoryValue": 75949.75
+  },
+  "electronics": {
+    "count": 6,
+    "inventoryValue": 159332.01
+  },
+  "home": {
+    "count": 1,
+    "inventoryValue": 86606.08
+  },
+  "sports": {
+    "count": 3,
+    "inventoryValue": 104125.01000000001
   }
 }
-
